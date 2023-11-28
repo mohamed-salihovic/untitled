@@ -31,7 +31,6 @@ public class ContinueWithLabelDemo {
              */
             rijecJesteDioRecenice = true;
             kolikoPuta++;
-
             continue ;
         }
         String message = rijecJesteDioRecenice ? "rijec jeste":"riječ nije";
